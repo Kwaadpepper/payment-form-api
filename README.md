@@ -13,7 +13,7 @@ PHP 5.3.0 and later.
 You can install the API via [Composer](http://getcomposer.org/). Run the following command:
 
 ```bash
-composer require lyranetwork/payment-form-api
+composer require kwaadpepper/payment-form-api
 ```
 
 To use the API, use Composer's [autoload](https://getcomposer.org/doc/00-intro.md#autoloading):
