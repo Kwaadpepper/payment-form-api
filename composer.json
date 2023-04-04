@@ -1,7 +1,7 @@
 {
     "name": "kwaadpepper/payment-form-api",
     "description": "Common API to make Lyra payment platform integration easier in PHP based websites.",
-    "version": "3.0.2",
+    "version": "3.0.3",
     "type": "library",
     "keywords": [
         "api",
@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Lyranetwork\\": "lib/"
+            "Lyranetwork\\": "lib/Lyranetwork/"
         }
     }
 }
